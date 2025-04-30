@@ -7,7 +7,7 @@ A full-stack web application to manage employee data efficiently. It allows user
 - **Backend**: Spring Boot (Java)
 - **Frontend**: HTML, CSS (Bootstrap), JavaScript
 - **Testing**: Postman
-- **Database**: H2 (In-memory) or any other JDBC-compatible database
+- **Database**: H2 (In-memory)
 
 ---
 
